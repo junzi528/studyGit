@@ -5,3 +5,4 @@ Git has a mutable index call stage
 Git跟踪管理的是修改，而非文件，这是它优秀的地方
 
 我来解决冲突
+禁用fast forward
