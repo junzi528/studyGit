@@ -4,4 +4,5 @@ Git has a mutable index call stage
 暂存区，需要理解哦
 Git跟踪管理的是修改，而非文件，这是它优秀的地方
 
-新创建了一个叫dev的分支
+新创建了一个叫“dev”的分支
+master也改了哦
