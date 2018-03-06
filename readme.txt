@@ -4,6 +4,4 @@ Git has a mutable index call stage
 暂存区，需要理解哦
 Git跟踪管理的是修改，而非文件，这是它优秀的地方
 
-我来解决冲突
-禁用fast forward
-我可以学会的 马上马上
+bug02已修复
