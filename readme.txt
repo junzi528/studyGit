@@ -7,5 +7,5 @@ Git跟踪管理的是修改，而非文件，这是它优秀的地方
 
 我要在dev中重来
 class
-Git tracks changes.
+Git tracks changes of files.
 
